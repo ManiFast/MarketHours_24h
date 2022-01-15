@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Program Files\Rainmeter\Skins\illustro\Market_hours_24\Market_hours_24_CLOCK_by_Stas\Debug\Market_hours_24_CLOCK_by_Stas.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls>
+    <SatelliteDll>
+      <FullPath>C:\Program Files\Rainmeter\Skins\illustro\Market_hours_24\Market_hours_24_CLOCK_by_Stas\Market_hours_24_CLOCK_by_Stas\Debug\ccp-Cakm-IN\Market_hours_24_CLOCK_by_Stas.resources.dll</FullPath>
+    </SatelliteDll>
+    <SatelliteDll>
+      <FullPath>C:\Program Files\Rainmeter\Skins\illustro\Market_hours_24\Market_hours_24_CLOCK_by_Stas\Market_hours_24_CLOCK_by_Stas\Debug\ko-KP\Market_hours_24_CLOCK_by_Stas.resources.dll</FullPath>
+    </SatelliteDll>
+  </SatelliteDlls>
+  <NonRecipeFileRefs />
+</Project>
