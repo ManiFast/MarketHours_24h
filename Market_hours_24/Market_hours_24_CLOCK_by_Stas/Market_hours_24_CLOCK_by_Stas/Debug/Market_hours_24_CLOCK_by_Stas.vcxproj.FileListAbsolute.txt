@@ -1,0 +1,8 @@
+H:\Disk\qwerty\C++\My projects\Market_hours_24_CLOCK_by_Stas\Market_hours_24_CLOCK_by_Stas\Debug\Market_hours_24_CLOCK_by_Stas.vcxproj.AssemblyReference.cache
+H:\Disk\qwerty\C++\My projects\Market_hours_24_CLOCK_by_Stas\Market_hours_24_CLOCK_by_Stas\Debug\Markethours24CLOCKbyStas.MyForm.resources
+H:\Disk\qwerty\C++\My projects\Market_hours_24_CLOCK_by_Stas\Market_hours_24_CLOCK_by_Stas\Debug\Market_hours_24_CLOCK_by_Stas.vcxproj.GenerateResource.cache
+C:\Program Files\Rainmeter\Skins\illustro\Market_hours_24\Market_hours_24_CLOCK_by_Stas\Market_hours_24_CLOCK_by_Stas\Debug\Market_hours_24_CLOCK_by_Stas.vcxproj.AssemblyReference.cache
+C:\Program Files\Rainmeter\Skins\illustro\Market_hours_24\Market_hours_24_CLOCK_by_Stas\Market_hours_24_CLOCK_by_Stas\Debug\Markethours24CLOCKbyStas.MyForm.resources
+C:\Program Files\Rainmeter\Skins\illustro\Market_hours_24\Market_hours_24_CLOCK_by_Stas\Market_hours_24_CLOCK_by_Stas\Debug\Market_hours_24_CLOCK_by_Stas.vcxproj.GenerateResource.cache
+C:\Program Files\Rainmeter\Skins\illustro\Market_hours_24\Market_hours_24_CLOCK_by_Stas\Market_hours_24_CLOCK_by_Stas\Debug\Markethours24CLOCKbyStas.MyForm.ccp-Cakm-IN.resources
+C:\Program Files\Rainmeter\Skins\illustro\Market_hours_24\Market_hours_24_CLOCK_by_Stas\Market_hours_24_CLOCK_by_Stas\Debug\Markethours24CLOCKbyStas.MyForm.ko-KP.resources
