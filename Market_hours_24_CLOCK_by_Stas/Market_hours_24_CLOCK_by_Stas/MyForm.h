@@ -1255,19 +1255,6 @@ private: System::ComponentModel::IContainer^ components;
 			this->PerformLayout();
 
 		}
-		//=============================================================================================================================================
-		// 
-		// 
-		// 
-		// 
-		// 
-		// 
-		// 
-		// 
-		// 
-		// 
-		// 
-		//=============================================================================================================================================
 #pragma endregion
 #pragma comment(linker, "/SUBSYSTEM:windows /ENTRY:mainCRTStartup") //hide console window
 
@@ -1680,8 +1667,6 @@ private: System::Void colorpanel_Paint(System::Object^ sender, System::Windows::
 }
 
 
-//==================================================================================================================================
-
 
 
 private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e) {
@@ -1760,11 +1745,11 @@ private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e
 	}
 	else if (checkBoxDv3->Checked == true)
 	{
-		fout << "ImageName = Photoes/Theme/v-b3.png\n";
+		fout << "ImageName = Photoes/Theme/Beta new/v-b3.png\n";
 	}
 	else if (checkBoxLv4->Checked == true)
 	{
-		fout << "ImageName = Photoes/Theme/v-w4.png\n";
+		fout << "ImageName = Photoes/Theme/Beta new/v-w4.png\n";
 	}
 
 		
@@ -2150,7 +2135,7 @@ private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e
 	if (timer1->Interval == 10000)
 	{
 		Sleep(3000);
-		//this->Close();
+		this->Close();
 
 	}
 }

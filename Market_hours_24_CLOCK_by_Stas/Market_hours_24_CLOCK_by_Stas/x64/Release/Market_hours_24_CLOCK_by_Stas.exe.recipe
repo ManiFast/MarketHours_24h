@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\karak\OneDrive\Рабочий стол\MarketHours_24h\Market_hours_24_CLOCK_by_Stas\x64\Release\Market_hours_24_CLOCK_by_Stas.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls>
+    <SatelliteDll>
+      <FullPath>C:\Users\karak\OneDrive\Рабочий стол\MarketHours_24h\Market_hours_24_CLOCK_by_Stas\Market_hours_24_CLOCK_by_Stas\x64\Release\ccp-Cakm-IN\Market_hours_24_CLOCK_by_Stas.resources.dll</FullPath>
+    </SatelliteDll>
+    <SatelliteDll>
+      <FullPath>C:\Users\karak\OneDrive\Рабочий стол\MarketHours_24h\Market_hours_24_CLOCK_by_Stas\Market_hours_24_CLOCK_by_Stas\x64\Release\ko-KP\Market_hours_24_CLOCK_by_Stas.resources.dll</FullPath>
+    </SatelliteDll>
+  </SatelliteDlls>
+  <NonRecipeFileRefs />
+</Project>
