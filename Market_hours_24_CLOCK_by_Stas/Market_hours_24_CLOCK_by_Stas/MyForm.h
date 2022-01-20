@@ -16,7 +16,7 @@ namespace Markethours24CLOCKbyStas {
 	using namespace std;
 
 	/// <summary>
-	/// Сводка для MyForm
+	/// Г‘ГўГ®Г¤ГЄГ  Г¤Г«Гї MyForm
 	/// </summary>
 	public ref class MyForm : public System::Windows::Forms::Form
 	{
@@ -25,13 +25,13 @@ namespace Markethours24CLOCKbyStas {
 		{
 			InitializeComponent();
 			//
-			//TODO: добавьте код конструктора
+			//TODO: Г¤Г®ГЎГ ГўГјГІГҐ ГЄГ®Г¤ ГЄГ®Г­Г±ГІГ°ГіГЄГІГ®Г°Г 
 			//
 		}
 
 	protected:
 		/// <summary>
-		/// Освободить все используемые ресурсы.
+		/// ГЋГ±ГўГ®ГЎГ®Г¤ГЁГІГј ГўГ±ГҐ ГЁГ±ГЇГ®Г«ГјГ§ГіГҐГ¬Г»ГҐ Г°ГҐГ±ГіГ°Г±Г».
 		/// </summary>
 		~MyForm()
 		{
@@ -337,14 +337,14 @@ private: System::ComponentModel::IContainer^ components;
 
 	private:
 		/// <summary>
-		/// Обязательная переменная конструктора.
+		/// ГЋГЎГїГ§Г ГІГҐГ«ГјГ­Г Гї ГЇГҐГ°ГҐГ¬ГҐГ­Г­Г Гї ГЄГ®Г­Г±ГІГ°ГіГЄГІГ®Г°Г .
 		/// </summary>
 
 
 #pragma region Windows Form Designer generated code
 		/// <summary>
-		/// Требуемый метод для поддержки конструктора — не изменяйте 
-		/// содержимое этого метода с помощью редактора кода.
+		/// Г’Г°ГҐГЎГіГҐГ¬Г»Г© Г¬ГҐГІГ®Г¤ Г¤Г«Гї ГЇГ®Г¤Г¤ГҐГ°Г¦ГЄГЁ ГЄГ®Г­Г±ГІГ°ГіГЄГІГ®Г°Г  В— Г­ГҐ ГЁГ§Г¬ГҐГ­ГїГ©ГІГҐ 
+		/// Г±Г®Г¤ГҐГ°Г¦ГЁГ¬Г®ГҐ ГЅГІГ®ГЈГ® Г¬ГҐГІГ®Г¤Г  Г± ГЇГ®Г¬Г®Г№ГјГѕ Г°ГҐГ¤Г ГЄГІГ®Г°Г  ГЄГ®Г¤Г .
 		/// </summary>
 		void InitializeComponent(void)
 		{
@@ -2101,7 +2101,7 @@ private: System::ComponentModel::IContainer^ components;
 		// 
 		//=================================================================================================================================================
 
-		String^ pass = "WV69VW";
+		String^ pass = "hahaha)";
 
 		String^ colorHour1;
 		String^ colorHour2;
@@ -2211,7 +2211,7 @@ private: System::Void setVIPToolStripMenuItem_Click(System::Object^ sender, Syst
 		sound();
 		MessageBox::Show(this, "Thanks for subscribing)\nVIP activated, enjoy !", "Alert", MessageBoxButtons::OK, MessageBoxIcon::Information);
 
-		// Выставление вип чекбоксов в актив положение
+		// Г‚Г»Г±ГІГ ГўГ«ГҐГ­ГЁГҐ ГўГЁГЇ Г·ГҐГЄГЎГ®ГЄГ±Г®Гў Гў Г ГЄГІГЁГў ГЇГ®Г«Г®Г¦ГҐГ­ГЁГҐ
 		checkBoxMain2->Enabled = true;
 		checkBoxMain3->Enabled = true;
 		checkBoxLv3->Enabled = true;
@@ -2225,7 +2225,7 @@ private: System::Void setVIPToolStripMenuItem_Click(System::Object^ sender, Syst
 		checkBoxInfoMain3->Enabled = true;
 		checkBoxInfoDv1->Enabled = true;
 
-		// Убирание активного курсора с заблоикроваанных ячеек
+		// Г“ГЎГЁГ°Г Г­ГЁГҐ Г ГЄГІГЁГўГ­Г®ГЈГ® ГЄГіГ°Г±Г®Г°Г  Г± Г§Г ГЎГ«Г®ГЁГЄГ°Г®ГўГ Г Г­Г­Г»Гµ ГїГ·ГҐГҐГЄ
 		// 1
 		item1->Cursor = Control::Cursor;
 		item2->Cursor = Control::Cursor;
@@ -2249,7 +2249,7 @@ private: System::Void setVIPToolStripMenuItem_Click(System::Object^ sender, Syst
 		item1_3->Cursor = Control::Cursor;
 		item1_4->Cursor = Control::Cursor;
 
-		// Убирание ВИП (черного фона И текста желтого)
+		// Г“ГЎГЁГ°Г Г­ГЁГҐ Г‚Г€ГЏ (Г·ГҐГ°Г­Г®ГЈГ® ГґГ®Г­Г  Г€ ГІГҐГЄГ±ГІГ  Г¦ГҐГ«ГІГ®ГЈГ®)
 		// 1
 		panelMain2->BackColor = Color::FromArgb(80, 210, 130);
 		panelMain3->BackColor = Color::FromArgb(80, 210, 130);
@@ -2285,7 +2285,7 @@ private: System::Void setVIPToolStripMenuItem_Click(System::Object^ sender, Syst
 			///////////////// CheckBoxes ////////////////////////////
 
 private: System::Void checkBoxMain_CheckedChanged(System::Object^ sender, System::EventArgs^ e) {
-	// Снятие со всех галочки кроме выбранного
+	// Г‘Г­ГїГІГЁГҐ Г±Г® ГўГ±ГҐГµ ГЈГ Г«Г®Г·ГЄГЁ ГЄГ°Г®Г¬ГҐ ГўГ»ГЎГ°Г Г­Г­Г®ГЈГ®
 	//checkBoxMain->Checked = false;
 	checkBoxMain2->Checked = false;
 	checkBoxMain3->Checked = false;
@@ -2330,7 +2330,7 @@ private: System::Void checkBoxMain_CheckedChanged(System::Object^ sender, System
 
 private: System::Void checkBoxMain2_CheckedChanged(System::Object^ sender, System::EventArgs^ e)
 {
-	// Снятие со всех галочки кроме выбранного
+	// Г‘Г­ГїГІГЁГҐ Г±Г® ГўГ±ГҐГµ ГЈГ Г«Г®Г·ГЄГЁ ГЄГ°Г®Г¬ГҐ ГўГ»ГЎГ°Г Г­Г­Г®ГЈГ®
 	checkBoxMain->Checked = false;
 	//checkBoxMain2->Checked = false;
 	checkBoxMain3->Checked = false;
@@ -2373,7 +2373,7 @@ private: System::Void checkBoxMain2_CheckedChanged(System::Object^ sender, Syste
 	colorpanel4->BackColor = Color::FromArgb(hScrollBar3->Value, hScrollBar1->Value, hScrollBar2->Value);
 }
 private: System::Void checkBoxMain3_CheckedChanged(System::Object^ sender, System::EventArgs^ e){
-	// Снятие со всех галочки кроме выбранного
+	// Г‘Г­ГїГІГЁГҐ Г±Г® ГўГ±ГҐГµ ГЈГ Г«Г®Г·ГЄГЁ ГЄГ°Г®Г¬ГҐ ГўГ»ГЎГ°Г Г­Г­Г®ГЈГ®
 	checkBoxMain->Checked = false;
 	checkBoxMain2->Checked = false;
 	//checkBoxMain3->Checked = false;
@@ -2416,7 +2416,7 @@ private: System::Void checkBoxMain3_CheckedChanged(System::Object^ sender, Syste
 	colorpanel4->BackColor = Color::FromArgb(hScrollBar3->Value, hScrollBar1->Value, hScrollBar2->Value);
 }
 private: System::Void checkBoxDv1_CheckedChanged(System::Object^ sender, System::EventArgs^ e) {
-	// Снятие со всех галочки кроме выбранного
+	// Г‘Г­ГїГІГЁГҐ Г±Г® ГўГ±ГҐГµ ГЈГ Г«Г®Г·ГЄГЁ ГЄГ°Г®Г¬ГҐ ГўГ»ГЎГ°Г Г­Г­Г®ГЈГ®
 	checkBoxMain->Checked = false;
 	checkBoxMain2->Checked = false;
 	checkBoxMain3->Checked = false;
@@ -2459,7 +2459,7 @@ private: System::Void checkBoxDv1_CheckedChanged(System::Object^ sender, System:
 	colorpanel4->BackColor = Color::FromArgb(hScrollBar3->Value, hScrollBar1->Value, hScrollBar2->Value);
 }
 private: System::Void checkBoxDv11_CheckedChanged_1(System::Object^ sender, System::EventArgs^ e) {
-	// Снятие со всех галочки кроме выбранного
+	// Г‘Г­ГїГІГЁГҐ Г±Г® ГўГ±ГҐГµ ГЈГ Г«Г®Г·ГЄГЁ ГЄГ°Г®Г¬ГҐ ГўГ»ГЎГ°Г Г­Г­Г®ГЈГ®
 	checkBoxMain->Checked = false;
 	checkBoxMain2->Checked = false;
 	checkBoxMain3->Checked = false;
@@ -2502,7 +2502,7 @@ private: System::Void checkBoxDv11_CheckedChanged_1(System::Object^ sender, Syst
 	colorpanel4->BackColor = Color::FromArgb(hScrollBar3->Value, hScrollBar1->Value, hScrollBar2->Value);
 }
 private: System::Void checkBoxDv2_CheckedChanged(System::Object^ sender, System::EventArgs^ e) {
-	// Снятие со всех галочки кроме выбранного
+	// Г‘Г­ГїГІГЁГҐ Г±Г® ГўГ±ГҐГµ ГЈГ Г«Г®Г·ГЄГЁ ГЄГ°Г®Г¬ГҐ ГўГ»ГЎГ°Г Г­Г­Г®ГЈГ®
 	checkBoxMain->Checked = false;
 	checkBoxMain2->Checked = false;
 	checkBoxMain3->Checked = false;
@@ -2545,7 +2545,7 @@ private: System::Void checkBoxDv2_CheckedChanged(System::Object^ sender, System:
 	colorpanel4->BackColor = Color::FromArgb(hScrollBar3->Value, hScrollBar1->Value, hScrollBar2->Value);
 }
 private: System::Void checkBoxLv1_CheckedChanged(System::Object^ sender, System::EventArgs^ e) {
-	// Снятие со всех галочки кроме выбранного
+	// Г‘Г­ГїГІГЁГҐ Г±Г® ГўГ±ГҐГµ ГЈГ Г«Г®Г·ГЄГЁ ГЄГ°Г®Г¬ГҐ ГўГ»ГЎГ°Г Г­Г­Г®ГЈГ®
 	checkBoxMain->Checked = false;
 	checkBoxMain2->Checked = false;
 	checkBoxMain3->Checked = false;
@@ -2588,7 +2588,7 @@ private: System::Void checkBoxLv1_CheckedChanged(System::Object^ sender, System:
 	colorpanel4->BackColor = Color::FromArgb(hScrollBar3->Value, hScrollBar1->Value, hScrollBar2->Value);
 }
 private: System::Void checkBoxLv2_CheckedChanged(System::Object^ sender, System::EventArgs^ e) {
-	// Снятие со всех галочки кроме выбранного
+	// Г‘Г­ГїГІГЁГҐ Г±Г® ГўГ±ГҐГµ ГЈГ Г«Г®Г·ГЄГЁ ГЄГ°Г®Г¬ГҐ ГўГ»ГЎГ°Г Г­Г­Г®ГЈГ®
 	checkBoxMain->Checked = false;
 	checkBoxMain2->Checked = false;
 	checkBoxMain3->Checked = false;
@@ -2631,7 +2631,7 @@ private: System::Void checkBoxLv2_CheckedChanged(System::Object^ sender, System:
 	colorpanel4->BackColor = Color::FromArgb(hScrollBar3->Value, hScrollBar1->Value, hScrollBar2->Value);
 }
 private: System::Void checkBoxLv22_CheckedChanged(System::Object^ sender, System::EventArgs^ e) {
-	// Снятие со всех галочки кроме выбранного
+	// Г‘Г­ГїГІГЁГҐ Г±Г® ГўГ±ГҐГµ ГЈГ Г«Г®Г·ГЄГЁ ГЄГ°Г®Г¬ГҐ ГўГ»ГЎГ°Г Г­Г­Г®ГЈГ®
 	checkBoxMain->Checked = false;
 	checkBoxMain2->Checked = false;
 	checkBoxMain3->Checked = false;
@@ -2674,7 +2674,7 @@ private: System::Void checkBoxLv22_CheckedChanged(System::Object^ sender, System
 	colorpanel4->BackColor = Color::FromArgb(hScrollBar3->Value, hScrollBar1->Value, hScrollBar2->Value);
 }
 private: System::Void checkBoxLv3_CheckedChanged(System::Object^ sender, System::EventArgs^ e) {
-	// Снятие со всех галочки кроме выбранного
+	// Г‘Г­ГїГІГЁГҐ Г±Г® ГўГ±ГҐГµ ГЈГ Г«Г®Г·ГЄГЁ ГЄГ°Г®Г¬ГҐ ГўГ»ГЎГ°Г Г­Г­Г®ГЈГ®
 	checkBoxMain->Checked = false;
 	checkBoxMain2->Checked = false;
 	checkBoxMain3->Checked = false;
@@ -2717,7 +2717,7 @@ private: System::Void checkBoxLv3_CheckedChanged(System::Object^ sender, System:
 	colorpanel4->BackColor = Color::FromArgb(hScrollBar3->Value, hScrollBar1->Value, hScrollBar2->Value);
 }
 private: System::Void checkBoxLv33_CheckedChanged(System::Object^ sender, System::EventArgs^ e) {
-	// Снятие со всех галочки кроме выбранного
+	// Г‘Г­ГїГІГЁГҐ Г±Г® ГўГ±ГҐГµ ГЈГ Г«Г®Г·ГЄГЁ ГЄГ°Г®Г¬ГҐ ГўГ»ГЎГ°Г Г­Г­Г®ГЈГ®
 	checkBoxMain->Checked = false;
 	checkBoxMain2->Checked = false;
 	checkBoxMain3->Checked = false;
@@ -2760,7 +2760,7 @@ private: System::Void checkBoxLv33_CheckedChanged(System::Object^ sender, System
 	colorpanel4->BackColor = Color::FromArgb(hScrollBar3->Value, hScrollBar1->Value, hScrollBar2->Value);
 }
 private: System::Void checkBoxDv3_CheckedChanged(System::Object^ sender, System::EventArgs^ e) {
-	// Снятие со всех галочки кроме выбранного
+	// Г‘Г­ГїГІГЁГҐ Г±Г® ГўГ±ГҐГµ ГЈГ Г«Г®Г·ГЄГЁ ГЄГ°Г®Г¬ГҐ ГўГ»ГЎГ°Г Г­Г­Г®ГЈГ®
 	checkBoxMain->Checked = false;
 	checkBoxMain2->Checked = false;
 	checkBoxMain3->Checked = false;
@@ -2803,7 +2803,7 @@ private: System::Void checkBoxDv3_CheckedChanged(System::Object^ sender, System:
 	colorpanel4->BackColor = Color::FromArgb(hScrollBar3->Value, hScrollBar1->Value, hScrollBar2->Value);
 }
 private: System::Void checkBoxDv32_CheckedChanged(System::Object^ sender, System::EventArgs^ e) {
-	// Снятие со всех галочки кроме выбранного
+	// Г‘Г­ГїГІГЁГҐ Г±Г® ГўГ±ГҐГµ ГЈГ Г«Г®Г·ГЄГЁ ГЄГ°Г®Г¬ГҐ ГўГ»ГЎГ°Г Г­Г­Г®ГЈГ®
 	checkBoxMain->Checked = false;
 	checkBoxMain2->Checked = false;
 	checkBoxMain3->Checked = false;
@@ -2846,7 +2846,7 @@ private: System::Void checkBoxDv32_CheckedChanged(System::Object^ sender, System
 	colorpanel4->BackColor = Color::FromArgb(hScrollBar3->Value, hScrollBar1->Value, hScrollBar2->Value);
 }
 private: System::Void checkBoxDv33_CheckedChanged(System::Object^ sender, System::EventArgs^ e) {
-	// Снятие со всех галочки кроме выбранного
+	// Г‘Г­ГїГІГЁГҐ Г±Г® ГўГ±ГҐГµ ГЈГ Г«Г®Г·ГЄГЁ ГЄГ°Г®Г¬ГҐ ГўГ»ГЎГ°Г Г­Г­Г®ГЈГ®
 	checkBoxMain->Checked = false;
 	checkBoxMain2->Checked = false;
 	checkBoxMain3->Checked = false;
@@ -2889,7 +2889,7 @@ private: System::Void checkBoxDv33_CheckedChanged(System::Object^ sender, System
 	colorpanel4->BackColor = Color::FromArgb(hScrollBar3->Value, hScrollBar1->Value, hScrollBar2->Value);
 }
 private: System::Void checkBoxLv4_CheckedChanged(System::Object^ sender, System::EventArgs^ e) {
-	// Снятие со всех галочки кроме выбранного
+	// Г‘Г­ГїГІГЁГҐ Г±Г® ГўГ±ГҐГµ ГЈГ Г«Г®Г·ГЄГЁ ГЄГ°Г®Г¬ГҐ ГўГ»ГЎГ°Г Г­Г­Г®ГЈГ®
 	checkBoxMain->Checked = false;
 	checkBoxMain2->Checked = false;
 	checkBoxMain3->Checked = false;
@@ -2932,7 +2932,7 @@ private: System::Void checkBoxLv4_CheckedChanged(System::Object^ sender, System:
 	colorpanel4->BackColor = Color::FromArgb(hScrollBar3->Value, hScrollBar1->Value, hScrollBar2->Value);
 }
 private: System::Void checkBoxLv44_CheckedChanged(System::Object^ sender, System::EventArgs^ e) {
-	// Снятие со всех галочки кроме выбранного
+	// Г‘Г­ГїГІГЁГҐ Г±Г® ГўГ±ГҐГµ ГЈГ Г«Г®Г·ГЄГЁ ГЄГ°Г®Г¬ГҐ ГўГ»ГЎГ°Г Г­Г­Г®ГЈГ®
 	checkBoxMain->Checked = false;
 	checkBoxMain2->Checked = false;
 	checkBoxMain3->Checked = false;
@@ -2976,7 +2976,7 @@ private: System::Void checkBoxLv44_CheckedChanged(System::Object^ sender, System
 }
 private: System::Void checkBoxInfoMain_CheckedChanged(System::Object^ sender, System::EventArgs^ e)
 {
-	// Снятие со всех галочки кроме выбранного
+	// Г‘Г­ГїГІГЁГҐ Г±Г® ГўГ±ГҐГµ ГЈГ Г«Г®Г·ГЄГЁ ГЄГ°Г®Г¬ГҐ ГўГ»ГЎГ°Г Г­Г­Г®ГЈГ®
 	checkBoxMain->Checked = false;
 	checkBoxMain2->Checked = false;
 	checkBoxMain3->Checked = false;
@@ -3020,7 +3020,7 @@ private: System::Void checkBoxInfoMain_CheckedChanged(System::Object^ sender, Sy
 }
 private: System::Void checkBoxInfoMain2_CheckedChanged(System::Object^ sender, System::EventArgs^ e)
 {
-	// Снятие со всех галочки кроме выбранного
+	// Г‘Г­ГїГІГЁГҐ Г±Г® ГўГ±ГҐГµ ГЈГ Г«Г®Г·ГЄГЁ ГЄГ°Г®Г¬ГҐ ГўГ»ГЎГ°Г Г­Г­Г®ГЈГ®
 	checkBoxMain->Checked = false;
 	checkBoxMain2->Checked = false;
 	checkBoxMain3->Checked = false;
@@ -3064,7 +3064,7 @@ private: System::Void checkBoxInfoMain2_CheckedChanged(System::Object^ sender, S
 }
 private: System::Void checkBoxInfoMain3_CheckedChanged(System::Object^ sender, System::EventArgs^ e)
 {
-	// Снятие со всех галочки кроме выбранного
+	// Г‘Г­ГїГІГЁГҐ Г±Г® ГўГ±ГҐГµ ГЈГ Г«Г®Г·ГЄГЁ ГЄГ°Г®Г¬ГҐ ГўГ»ГЎГ°Г Г­Г­Г®ГЈГ®
 	checkBoxMain->Checked = false;
 	checkBoxMain2->Checked = false;
 	checkBoxMain3->Checked = false;
@@ -3108,7 +3108,7 @@ private: System::Void checkBoxInfoMain3_CheckedChanged(System::Object^ sender, S
 }
 private: System::Void checkBoxInfoDv1_CheckedChanged(System::Object^ sender, System::EventArgs^ e)
 {
-	// Снятие со всех галочки кроме выбранного
+	// Г‘Г­ГїГІГЁГҐ Г±Г® ГўГ±ГҐГµ ГЈГ Г«Г®Г·ГЄГЁ ГЄГ°Г®Г¬ГҐ ГўГ»ГЎГ°Г Г­Г­Г®ГЈГ®
 	checkBoxMain->Checked = false;
 	checkBoxMain2->Checked = false;
 	checkBoxMain3->Checked = false;
