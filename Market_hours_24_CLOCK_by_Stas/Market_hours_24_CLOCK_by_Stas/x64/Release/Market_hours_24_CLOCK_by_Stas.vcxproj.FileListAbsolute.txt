@@ -3,3 +3,8 @@ C:\Users\karak\OneDrive\Рабочий стол\MarketHours_24h\Market_hours_24_
 C:\Users\karak\OneDrive\Рабочий стол\MarketHours_24h\Market_hours_24_CLOCK_by_Stas\Market_hours_24_CLOCK_by_Stas\x64\Release\Markethours24CLOCKbyStas.MyForm.ccp-Cakm-IN.resources
 C:\Users\karak\OneDrive\Рабочий стол\MarketHours_24h\Market_hours_24_CLOCK_by_Stas\Market_hours_24_CLOCK_by_Stas\x64\Release\Markethours24CLOCKbyStas.MyForm.ko-KP.resources
 C:\Users\karak\OneDrive\Рабочий стол\MarketHours_24h\Market_hours_24_CLOCK_by_Stas\Market_hours_24_CLOCK_by_Stas\x64\Release\Market_hours_24_CLOCK_by_Stas.vcxproj.GenerateResource.cache
+C:\Program Files\Rainmeter\Skins\illustro\Market_hours_24\Market_hours_24_CLOCK_by_Stas\Market_hours_24_CLOCK_by_Stas\x64\Release\Market_hours_24_CLOCK_by_Stas.vcxproj.AssemblyReference.cache
+C:\Program Files\Rainmeter\Skins\illustro\Market_hours_24\Market_hours_24_CLOCK_by_Stas\Market_hours_24_CLOCK_by_Stas\x64\Release\Markethours24CLOCKbyStas.MyForm.resources
+C:\Program Files\Rainmeter\Skins\illustro\Market_hours_24\Market_hours_24_CLOCK_by_Stas\Market_hours_24_CLOCK_by_Stas\x64\Release\Markethours24CLOCKbyStas.MyForm.ccp-Cakm-IN.resources
+C:\Program Files\Rainmeter\Skins\illustro\Market_hours_24\Market_hours_24_CLOCK_by_Stas\Market_hours_24_CLOCK_by_Stas\x64\Release\Markethours24CLOCKbyStas.MyForm.ko-KP.resources
+C:\Program Files\Rainmeter\Skins\illustro\Market_hours_24\Market_hours_24_CLOCK_by_Stas\Market_hours_24_CLOCK_by_Stas\x64\Release\Market_hours_24_CLOCK_by_Stas.vcxproj.GenerateResource.cache
