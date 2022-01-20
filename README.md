@@ -14,7 +14,7 @@
 
 ![](https://github.com/Stas-inside/MarketHours_24h/blob/main/Photoes/Screenshots/Capture1.PNG)
 ![](https://github.com/Stas-inside/MarketHours_24h/blob/main/Photoes/Screenshots/Capture2.PNG)
-![](https://github.com/Stas-inside/MarketHours_24h/blob/main/Photoes/Screenshots/tempsnip1.png)
+<!--![](https://github.com/Stas-inside/MarketHours_24h/blob/main/Photoes/Screenshots/tempsnip1.png)-->
 
 ### Screenshots
 
