@@ -8,6 +8,8 @@
 
 *Soon the channel will have a detailed review of the program itself, and as soon as the video gets 10 likes, I will post the VIP activation key to open all skins*
 
+▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+                            
 ### Photos of several hours
 
 ![](https://github.com/Stas-inside/MarketHours_24h/blob/main/Photoes/Screenshots/Capture1.PNG)
