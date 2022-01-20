@@ -61,53 +61,53 @@ private: System::Windows::Forms::MenuStrip^ menuStrip1;
 private: System::Windows::Forms::Panel^ vipback;
 private: System::Windows::Forms::Label^ label1;
 private: System::Windows::Forms::Panel^ panel2;
-private: System::Windows::Forms::Panel^ panel6;
-	private: System::Windows::Forms::Panel^ item1;
-
-
-private: System::Windows::Forms::CheckBox^ checkBoxMain;
-private: System::Windows::Forms::Label^ label3;
-private: System::Windows::Forms::PictureBox^ pictureBox1;
-	private: System::Windows::Forms::Panel^ item4;
-
-private: System::Windows::Forms::CheckBox^ checkBoxDv1;
-private: System::Windows::Forms::Label^ label4;
-private: System::Windows::Forms::PictureBox^ pictureBox2;
 
 
 
 
-private: System::Windows::Forms::Panel^ panel5;
-	private: System::Windows::Forms::Panel^ item6;
 
-private: System::Windows::Forms::CheckBox^ checkBoxDv2;
-private: System::Windows::Forms::Label^ label5;
-private: System::Windows::Forms::PictureBox^ pictureBox3;
-private: System::Windows::Forms::Panel^ panel14;
-private: System::Windows::Forms::Panel^ panel8;
-	private: System::Windows::Forms::Panel^ item7;
 
-private: System::Windows::Forms::CheckBox^ checkBoxLv1;
-private: System::Windows::Forms::Label^ label6;
-private: System::Windows::Forms::PictureBox^ pictureBox4;
-	private: System::Windows::Forms::Panel^ item10;
 
-private: System::Windows::Forms::CheckBox^ checkBoxLv3;
-private: System::Windows::Forms::Label^ label8;
-private: System::Windows::Forms::PictureBox^ pictureBox6;
-private: System::Windows::Forms::Panel^ panel10;
-	private: System::Windows::Forms::Panel^ item8;
 
-private: System::Windows::Forms::CheckBox^ checkBoxLv2;
-private: System::Windows::Forms::Label^ label7;
-private: System::Windows::Forms::PictureBox^ pictureBox5;
-private: System::Windows::Forms::Panel^ panel12;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 private: System::Windows::Forms::Panel^ panel1;
 private: System::Windows::Forms::PictureBox^ pictureBox8;
-	private: System::Windows::Forms::Panel^ panelLv3;
-	private: System::Windows::Forms::Label^ labelLv3;
+
+
 
 
 
@@ -168,76 +168,76 @@ private: System::Windows::Forms::Panel^ panel17;
 private: System::Windows::Forms::Timer^ timer1;
 private: System::Windows::Forms::Label^ label27;
 private: System::Windows::Forms::Label^ label26;
-private: System::Windows::Forms::Panel^ panel26;
-private: System::Windows::Forms::Panel^ panel23;
-private: System::Windows::Forms::Panel^ item15;
 
 
 
 
-private: System::Windows::Forms::CheckBox^ checkBoxLv4;
-
-
-private: System::Windows::Forms::Label^ label31;
-private: System::Windows::Forms::PictureBox^ pictureBox11;
-private: System::Windows::Forms::Panel^ item12;
-
-private: System::Windows::Forms::Panel^ panelDv3;
-private: System::Windows::Forms::Label^ labelDv3;
 
 
 
-private: System::Windows::Forms::CheckBox^ checkBoxDv3;
 
 
 
-private: System::Windows::Forms::Label^ label32;
-private: System::Windows::Forms::Label^ label29;
-private: System::Windows::Forms::PictureBox^ pictureBox10;
-private: System::Windows::Forms::Panel^ panel47;
-private: System::Windows::Forms::Panel^ panel41;
-private: System::Windows::Forms::Panel^ panel31;
-private: System::Windows::Forms::Panel^ item14;
-
-private: System::Windows::Forms::Panel^ panelDv33;
-private: System::Windows::Forms::Label^ labelDv33;
 
 
-private: System::Windows::Forms::CheckBox^ checkBoxDv33;
-
-private: System::Windows::Forms::Label^ label47;
-private: System::Windows::Forms::PictureBox^ pictureBox18;
-private: System::Windows::Forms::Panel^ panel28;
-private: System::Windows::Forms::Panel^ item13;
-
-private: System::Windows::Forms::Panel^ panelDv32;
-private: System::Windows::Forms::Label^ labelDv32;
 
 
-private: System::Windows::Forms::CheckBox^ checkBoxDv32;
-
-private: System::Windows::Forms::Label^ label45;
-private: System::Windows::Forms::PictureBox^ pictureBox14;
-private: System::Windows::Forms::Panel^ item3;
-
-private: System::Windows::Forms::Panel^ panelMain3;
-private: System::Windows::Forms::Label^ labelMain3;
 
 
-private: System::Windows::Forms::CheckBox^ checkBoxMain3;
 
-private: System::Windows::Forms::Label^ label43;
-private: System::Windows::Forms::PictureBox^ pictureBox13;
-private: System::Windows::Forms::Panel^ item2;
 
-private: System::Windows::Forms::Panel^ panelMain2;
 
-private: System::Windows::Forms::Label^ labelMain2;
 
-private: System::Windows::Forms::CheckBox^ checkBoxMain2;
 
-private: System::Windows::Forms::Label^ label35;
-private: System::Windows::Forms::PictureBox^ pictureBox12;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 private: System::Windows::Forms::Label^ label28;
 private: System::Windows::Forms::Label^ label9;
 private: System::Windows::Forms::Panel^ panel34;
@@ -283,40 +283,40 @@ private: System::Windows::Forms::Label^ labelInfoMain;
 private: System::Windows::Forms::Label^ label42;
 private: System::Windows::Forms::PictureBox^ pictureBox17;
 private: System::Windows::Forms::Panel^ panel44;
-private: System::Windows::Forms::Panel^ panel50;
-private: System::Windows::Forms::Panel^ item16;
-
-private: System::Windows::Forms::CheckBox^ checkBoxLv44;
 
 
 
-private: System::Windows::Forms::Label^ label49;
-private: System::Windows::Forms::PictureBox^ pictureBox19;
-private: System::Windows::Forms::Panel^ item5;
-
-private: System::Windows::Forms::CheckBox^ checkBoxDv11;
-
-private: System::Windows::Forms::Label^ label52;
-private: System::Windows::Forms::PictureBox^ pictureBox21;
-private: System::Windows::Forms::Panel^ panel53;
-private: System::Windows::Forms::Panel^ panel54;
-private: System::Windows::Forms::Panel^ item11;
-
-private: System::Windows::Forms::Panel^ panelLv33;
-private: System::Windows::Forms::Label^ labelLv33;
 
 
-private: System::Windows::Forms::CheckBox^ checkBoxLv33;
 
-private: System::Windows::Forms::Label^ label51;
-private: System::Windows::Forms::PictureBox^ pictureBox20;
-private: System::Windows::Forms::Panel^ item9;
 
-private: System::Windows::Forms::CheckBox^ checkBoxLv22;
 
-private: System::Windows::Forms::Label^ label53;
-private: System::Windows::Forms::PictureBox^ pictureBox22;
-private: System::Windows::Forms::Panel^ panel56;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 private: System::Windows::Forms::CheckBox^ checkBoxInfoDv1;
 
 private: System::Windows::Forms::CheckBox^ checkBoxInfoMain3;
@@ -325,9 +325,141 @@ private: System::Windows::Forms::CheckBox^ checkBoxInfoMain2;
 
 private: System::Windows::Forms::CheckBox^ checkBoxInfoMain;
 private: System::Windows::Forms::ProgressBar^ progressBar;
-private: System::Windows::Forms::CheckBox^ checkBoxInfo;
-private: System::Windows::Forms::Panel^ panel3;
+
+
 private: System::Windows::Forms::Button^ button1;
+
+private: System::Windows::Forms::Panel^ panel28;
+private: System::Windows::Forms::Panel^ item3;
+private: System::Windows::Forms::Panel^ panelMain3;
+private: System::Windows::Forms::Label^ labelMain3;
+private: System::Windows::Forms::CheckBox^ checkBoxMain3;
+private: System::Windows::Forms::Label^ label43;
+private: System::Windows::Forms::PictureBox^ pictureBox13;
+private: System::Windows::Forms::Panel^ item2;
+private: System::Windows::Forms::Panel^ panelMain2;
+private: System::Windows::Forms::Label^ labelMain2;
+private: System::Windows::Forms::CheckBox^ checkBoxMain2;
+private: System::Windows::Forms::Label^ label35;
+private: System::Windows::Forms::PictureBox^ pictureBox12;
+private: System::Windows::Forms::Panel^ panel47;
+private: System::Windows::Forms::Panel^ panel31;
+private: System::Windows::Forms::Panel^ panel41;
+private: System::Windows::Forms::Panel^ item14;
+private: System::Windows::Forms::Panel^ panelDv33;
+private: System::Windows::Forms::Label^ labelDv33;
+private: System::Windows::Forms::CheckBox^ checkBoxDv33;
+private: System::Windows::Forms::Label^ label47;
+private: System::Windows::Forms::PictureBox^ pictureBox18;
+private: System::Windows::Forms::Panel^ item13;
+private: System::Windows::Forms::Panel^ panelDv32;
+private: System::Windows::Forms::Label^ labelDv32;
+private: System::Windows::Forms::CheckBox^ checkBoxDv32;
+private: System::Windows::Forms::Label^ label45;
+private: System::Windows::Forms::PictureBox^ pictureBox14;
+private: System::Windows::Forms::Panel^ item1;
+private: System::Windows::Forms::PictureBox^ pictureBox1;
+private: System::Windows::Forms::CheckBox^ checkBoxMain;
+private: System::Windows::Forms::Label^ label3;
+private: System::Windows::Forms::CheckBox^ checkBoxInfo;
+
+private: System::Windows::Forms::Panel^ panel56;
+
+private: System::Windows::Forms::Panel^ item8;
+private: System::Windows::Forms::CheckBox^ checkBoxLv2;
+private: System::Windows::Forms::Label^ label7;
+private: System::Windows::Forms::PictureBox^ pictureBox5;
+
+
+
+
+private: System::Windows::Forms::Panel^ item9;
+private: System::Windows::Forms::CheckBox^ checkBoxLv22;
+private: System::Windows::Forms::Label^ label53;
+private: System::Windows::Forms::PictureBox^ pictureBox22;
+private: System::Windows::Forms::Panel^ panel23;
+private: System::Windows::Forms::Panel^ panel10;
+
+
+
+
+private: System::Windows::Forms::Panel^ panel3;
+private: System::Windows::Forms::Panel^ item10;
+private: System::Windows::Forms::Panel^ panelLv3;
+private: System::Windows::Forms::Label^ labelLv3;
+private: System::Windows::Forms::CheckBox^ checkBoxLv3;
+private: System::Windows::Forms::Label^ label8;
+private: System::Windows::Forms::PictureBox^ pictureBox6;
+private: System::Windows::Forms::Panel^ item12;
+private: System::Windows::Forms::Panel^ panelDv3;
+private: System::Windows::Forms::Label^ labelDv3;
+private: System::Windows::Forms::CheckBox^ checkBoxDv3;
+private: System::Windows::Forms::Label^ label32;
+private: System::Windows::Forms::Label^ label29;
+private: System::Windows::Forms::PictureBox^ pictureBox10;
+private: System::Windows::Forms::Panel^ item7;
+private: System::Windows::Forms::CheckBox^ checkBoxLv1;
+private: System::Windows::Forms::Label^ label6;
+private: System::Windows::Forms::PictureBox^ pictureBox4;
+private: System::Windows::Forms::Panel^ panel12;
+private: System::Windows::Forms::Panel^ item4;
+private: System::Windows::Forms::CheckBox^ checkBoxDv1;
+private: System::Windows::Forms::Label^ label4;
+private: System::Windows::Forms::PictureBox^ pictureBox2;
+private: System::Windows::Forms::Panel^ item11;
+private: System::Windows::Forms::Panel^ panelLv33;
+private: System::Windows::Forms::Label^ labelLv33;
+private: System::Windows::Forms::CheckBox^ checkBoxLv33;
+private: System::Windows::Forms::Label^ label51;
+private: System::Windows::Forms::PictureBox^ pictureBox20;
+private: System::Windows::Forms::Panel^ panel5;
+private: System::Windows::Forms::Panel^ panel8;
+private: System::Windows::Forms::Panel^ item5;
+private: System::Windows::Forms::CheckBox^ checkBoxDv11;
+private: System::Windows::Forms::Label^ label52;
+private: System::Windows::Forms::PictureBox^ pictureBox21;
+private: System::Windows::Forms::Panel^ panel54;
+private: System::Windows::Forms::Panel^ item6;
+private: System::Windows::Forms::CheckBox^ checkBoxDv2;
+private: System::Windows::Forms::Label^ label5;
+private: System::Windows::Forms::PictureBox^ pictureBox3;
+private: System::Windows::Forms::Panel^ panel14;
+private: System::Windows::Forms::Panel^ panel53;
+private: System::Windows::Forms::CheckBox^ checkBoxLv44;
+
+private: System::Windows::Forms::CheckBox^ checkBoxLv4;
+private: System::Windows::Forms::Panel^ panel6;
+private: System::Windows::Forms::Panel^ item15;
+
+
+
+
+
+
+
+
+
+
+
+private: System::Windows::Forms::Label^ label30;
+private: System::Windows::Forms::PictureBox^ pictureBox23;
+private: System::Windows::Forms::Panel^ panel7;
+private: System::Windows::Forms::Panel^ item16;
+
+private: System::Windows::Forms::Label^ label34;
+private: System::Windows::Forms::PictureBox^ pictureBox24;
+private: System::Windows::Forms::Panel^ panel9;
+
+
+
+
+
+
+
+
+
+
+
 
 
 private: System::ComponentModel::IContainer^ components;
@@ -375,7 +507,6 @@ private: System::ComponentModel::IContainer^ components;
 			this->checkBoxMain3 = (gcnew System::Windows::Forms::CheckBox());
 			this->label43 = (gcnew System::Windows::Forms::Label());
 			this->pictureBox13 = (gcnew System::Windows::Forms::PictureBox());
-			this->panel6 = (gcnew System::Windows::Forms::Panel());
 			this->item2 = (gcnew System::Windows::Forms::Panel());
 			this->panelMain2 = (gcnew System::Windows::Forms::Panel());
 			this->labelMain2 = (gcnew System::Windows::Forms::Label());
@@ -397,17 +528,7 @@ private: System::ComponentModel::IContainer^ components;
 			this->checkBoxDv32 = (gcnew System::Windows::Forms::CheckBox());
 			this->label45 = (gcnew System::Windows::Forms::Label());
 			this->pictureBox14 = (gcnew System::Windows::Forms::PictureBox());
-			this->panel50 = (gcnew System::Windows::Forms::Panel());
-			this->panel26 = (gcnew System::Windows::Forms::Panel());
-			this->item16 = (gcnew System::Windows::Forms::Panel());
-			this->checkBoxLv44 = (gcnew System::Windows::Forms::CheckBox());
-			this->label49 = (gcnew System::Windows::Forms::Label());
-			this->pictureBox19 = (gcnew System::Windows::Forms::PictureBox());
 			this->panel23 = (gcnew System::Windows::Forms::Panel());
-			this->item15 = (gcnew System::Windows::Forms::Panel());
-			this->checkBoxLv4 = (gcnew System::Windows::Forms::CheckBox());
-			this->label31 = (gcnew System::Windows::Forms::Label());
-			this->pictureBox11 = (gcnew System::Windows::Forms::PictureBox());
 			this->item1 = (gcnew System::Windows::Forms::Panel());
 			this->pictureBox1 = (gcnew System::Windows::Forms::PictureBox());
 			this->checkBoxMain = (gcnew System::Windows::Forms::CheckBox());
@@ -487,6 +608,7 @@ private: System::ComponentModel::IContainer^ components;
 			this->pictureBox7 = (gcnew System::Windows::Forms::PictureBox());
 			this->panel35 = (gcnew System::Windows::Forms::Panel());
 			this->item1_3 = (gcnew System::Windows::Forms::Panel());
+			this->checkBoxLv44 = (gcnew System::Windows::Forms::CheckBox());
 			this->checkBoxInfoMain3 = (gcnew System::Windows::Forms::CheckBox());
 			this->panelInfoMain3 = (gcnew System::Windows::Forms::Panel());
 			this->labelInfoMain3 = (gcnew System::Windows::Forms::Label());
@@ -494,6 +616,7 @@ private: System::ComponentModel::IContainer^ components;
 			this->pictureBox15 = (gcnew System::Windows::Forms::PictureBox());
 			this->panel38 = (gcnew System::Windows::Forms::Panel());
 			this->item1_2 = (gcnew System::Windows::Forms::Panel());
+			this->checkBoxLv4 = (gcnew System::Windows::Forms::CheckBox());
 			this->checkBoxInfoMain2 = (gcnew System::Windows::Forms::CheckBox());
 			this->panelInfoMain2 = (gcnew System::Windows::Forms::Panel());
 			this->labelInfoMain2 = (gcnew System::Windows::Forms::Label());
@@ -543,6 +666,15 @@ private: System::ComponentModel::IContainer^ components;
 			this->label2 = (gcnew System::Windows::Forms::Label());
 			this->pictureBox8 = (gcnew System::Windows::Forms::PictureBox());
 			this->timer1 = (gcnew System::Windows::Forms::Timer(this->components));
+			this->panel6 = (gcnew System::Windows::Forms::Panel());
+			this->item15 = (gcnew System::Windows::Forms::Panel());
+			this->label30 = (gcnew System::Windows::Forms::Label());
+			this->pictureBox23 = (gcnew System::Windows::Forms::PictureBox());
+			this->panel7 = (gcnew System::Windows::Forms::Panel());
+			this->panel9 = (gcnew System::Windows::Forms::Panel());
+			this->item16 = (gcnew System::Windows::Forms::Panel());
+			this->label34 = (gcnew System::Windows::Forms::Label());
+			this->pictureBox24 = (gcnew System::Windows::Forms::PictureBox());
 			this->menuStrip1->SuspendLayout();
 			this->panel2->SuspendLayout();
 			this->item3->SuspendLayout();
@@ -557,10 +689,6 @@ private: System::ComponentModel::IContainer^ components;
 			this->item13->SuspendLayout();
 			this->panelDv32->SuspendLayout();
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureBox14))->BeginInit();
-			this->item16->SuspendLayout();
-			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureBox19))->BeginInit();
-			this->item15->SuspendLayout();
-			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureBox11))->BeginInit();
 			this->item1->SuspendLayout();
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureBox1))->BeginInit();
 			this->item12->SuspendLayout();
@@ -605,6 +733,10 @@ private: System::ComponentModel::IContainer^ components;
 			this->panel18->SuspendLayout();
 			this->panel19->SuspendLayout();
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureBox8))->BeginInit();
+			this->item15->SuspendLayout();
+			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureBox23))->BeginInit();
+			this->item16->SuspendLayout();
+			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureBox24))->BeginInit();
 			this->SuspendLayout();
 			// 
 			// vIPToolStripMenuItem
@@ -715,6 +847,10 @@ private: System::ComponentModel::IContainer^ components;
 			resources->ApplyResources(this->panel2, L"panel2");
 			this->panel2->BackColor = System::Drawing::Color::FromArgb(static_cast<System::Int32>(static_cast<System::Byte>(90)), static_cast<System::Int32>(static_cast<System::Byte>(220)),
 				static_cast<System::Int32>(static_cast<System::Byte>(140)));
+			this->panel2->Controls->Add(this->item16);
+			this->panel2->Controls->Add(this->item15);
+			this->panel2->Controls->Add(this->panel9);
+			this->panel2->Controls->Add(this->panel7);
 			this->panel2->Controls->Add(this->panel28);
 			this->panel2->Controls->Add(this->item3);
 			this->panel2->Controls->Add(this->panel6);
@@ -724,11 +860,7 @@ private: System::ComponentModel::IContainer^ components;
 			this->panel2->Controls->Add(this->panel41);
 			this->panel2->Controls->Add(this->item14);
 			this->panel2->Controls->Add(this->item13);
-			this->panel2->Controls->Add(this->panel50);
-			this->panel2->Controls->Add(this->panel26);
-			this->panel2->Controls->Add(this->item16);
 			this->panel2->Controls->Add(this->panel23);
-			this->panel2->Controls->Add(this->item15);
 			this->panel2->Controls->Add(this->item1);
 			this->panel2->Controls->Add(this->item12);
 			this->panel2->Controls->Add(this->item4);
@@ -796,11 +928,6 @@ private: System::ComponentModel::IContainer^ components;
 			resources->ApplyResources(this->pictureBox13, L"pictureBox13");
 			this->pictureBox13->Name = L"pictureBox13";
 			this->pictureBox13->TabStop = false;
-			// 
-			// panel6
-			// 
-			resources->ApplyResources(this->panel6, L"panel6");
-			this->panel6->Name = L"panel6";
 			// 
 			// item2
 			// 
@@ -946,78 +1073,10 @@ private: System::ComponentModel::IContainer^ components;
 			this->pictureBox14->Name = L"pictureBox14";
 			this->pictureBox14->TabStop = false;
 			// 
-			// panel50
-			// 
-			resources->ApplyResources(this->panel50, L"panel50");
-			this->panel50->Name = L"panel50";
-			// 
-			// panel26
-			// 
-			resources->ApplyResources(this->panel26, L"panel26");
-			this->panel26->Name = L"panel26";
-			// 
-			// item16
-			// 
-			this->item16->BackColor = System::Drawing::Color::FromArgb(static_cast<System::Int32>(static_cast<System::Byte>(80)), static_cast<System::Int32>(static_cast<System::Byte>(210)),
-				static_cast<System::Int32>(static_cast<System::Byte>(130)));
-			this->item16->Controls->Add(this->checkBoxLv44);
-			this->item16->Controls->Add(this->label49);
-			this->item16->Controls->Add(this->pictureBox19);
-			this->item16->Cursor = System::Windows::Forms::Cursors::Default;
-			resources->ApplyResources(this->item16, L"item16");
-			this->item16->Name = L"item16";
-			// 
-			// checkBoxLv44
-			// 
-			resources->ApplyResources(this->checkBoxLv44, L"checkBoxLv44");
-			this->checkBoxLv44->Name = L"checkBoxLv44";
-			this->checkBoxLv44->UseVisualStyleBackColor = true;
-			this->checkBoxLv44->CheckedChanged += gcnew System::EventHandler(this, &MyForm::checkBoxLv44_CheckedChanged);
-			// 
-			// label49
-			// 
-			resources->ApplyResources(this->label49, L"label49");
-			this->label49->Name = L"label49";
-			// 
-			// pictureBox19
-			// 
-			resources->ApplyResources(this->pictureBox19, L"pictureBox19");
-			this->pictureBox19->Name = L"pictureBox19";
-			this->pictureBox19->TabStop = false;
-			// 
 			// panel23
 			// 
 			resources->ApplyResources(this->panel23, L"panel23");
 			this->panel23->Name = L"panel23";
-			// 
-			// item15
-			// 
-			this->item15->BackColor = System::Drawing::Color::FromArgb(static_cast<System::Int32>(static_cast<System::Byte>(80)), static_cast<System::Int32>(static_cast<System::Byte>(210)),
-				static_cast<System::Int32>(static_cast<System::Byte>(130)));
-			this->item15->Controls->Add(this->checkBoxLv4);
-			this->item15->Controls->Add(this->label31);
-			this->item15->Controls->Add(this->pictureBox11);
-			this->item15->Cursor = System::Windows::Forms::Cursors::Default;
-			resources->ApplyResources(this->item15, L"item15");
-			this->item15->Name = L"item15";
-			// 
-			// checkBoxLv4
-			// 
-			resources->ApplyResources(this->checkBoxLv4, L"checkBoxLv4");
-			this->checkBoxLv4->Name = L"checkBoxLv4";
-			this->checkBoxLv4->UseVisualStyleBackColor = true;
-			this->checkBoxLv4->CheckedChanged += gcnew System::EventHandler(this, &MyForm::checkBoxLv4_CheckedChanged);
-			// 
-			// label31
-			// 
-			resources->ApplyResources(this->label31, L"label31");
-			this->label31->Name = L"label31";
-			// 
-			// pictureBox11
-			// 
-			resources->ApplyResources(this->pictureBox11, L"pictureBox11");
-			this->pictureBox11->Name = L"pictureBox11";
-			this->pictureBox11->TabStop = false;
 			// 
 			// item1
 			// 
@@ -1578,6 +1637,13 @@ private: System::ComponentModel::IContainer^ components;
 			resources->ApplyResources(this->item1_3, L"item1_3");
 			this->item1_3->Name = L"item1_3";
 			// 
+			// checkBoxLv44
+			// 
+			resources->ApplyResources(this->checkBoxLv44, L"checkBoxLv44");
+			this->checkBoxLv44->Name = L"checkBoxLv44";
+			this->checkBoxLv44->UseVisualStyleBackColor = true;
+			this->checkBoxLv44->CheckedChanged += gcnew System::EventHandler(this, &MyForm::checkBoxLv44_CheckedChanged);
+			// 
 			// checkBoxInfoMain3
 			// 
 			resources->ApplyResources(this->checkBoxInfoMain3, L"checkBoxInfoMain3");
@@ -1625,6 +1691,13 @@ private: System::ComponentModel::IContainer^ components;
 			this->item1_2->Cursor = System::Windows::Forms::Cursors::No;
 			resources->ApplyResources(this->item1_2, L"item1_2");
 			this->item1_2->Name = L"item1_2";
+			// 
+			// checkBoxLv4
+			// 
+			resources->ApplyResources(this->checkBoxLv4, L"checkBoxLv4");
+			this->checkBoxLv4->Name = L"checkBoxLv4";
+			this->checkBoxLv4->UseVisualStyleBackColor = true;
+			this->checkBoxLv4->CheckedChanged += gcnew System::EventHandler(this, &MyForm::checkBoxLv4_CheckedChanged);
 			// 
 			// checkBoxInfoMain2
 			// 
@@ -1970,6 +2043,63 @@ private: System::ComponentModel::IContainer^ components;
 			this->pictureBox8->Name = L"pictureBox8";
 			this->pictureBox8->TabStop = false;
 			// 
+			// panel6
+			// 
+			resources->ApplyResources(this->panel6, L"panel6");
+			this->panel6->Name = L"panel6";
+			// 
+			// item15
+			// 
+			this->item15->BackColor = System::Drawing::Color::FromArgb(static_cast<System::Int32>(static_cast<System::Byte>(80)), static_cast<System::Int32>(static_cast<System::Byte>(210)),
+				static_cast<System::Int32>(static_cast<System::Byte>(130)));
+			this->item15->Controls->Add(this->checkBoxLv4);
+			this->item15->Controls->Add(this->label30);
+			this->item15->Controls->Add(this->pictureBox23);
+			resources->ApplyResources(this->item15, L"item15");
+			this->item15->Name = L"item15";
+			// 
+			// label30
+			// 
+			resources->ApplyResources(this->label30, L"label30");
+			this->label30->Name = L"label30";
+			// 
+			// pictureBox23
+			// 
+			resources->ApplyResources(this->pictureBox23, L"pictureBox23");
+			this->pictureBox23->Name = L"pictureBox23";
+			this->pictureBox23->TabStop = false;
+			// 
+			// panel7
+			// 
+			resources->ApplyResources(this->panel7, L"panel7");
+			this->panel7->Name = L"panel7";
+			// 
+			// panel9
+			// 
+			resources->ApplyResources(this->panel9, L"panel9");
+			this->panel9->Name = L"panel9";
+			// 
+			// item16
+			// 
+			this->item16->BackColor = System::Drawing::Color::FromArgb(static_cast<System::Int32>(static_cast<System::Byte>(80)), static_cast<System::Int32>(static_cast<System::Byte>(210)),
+				static_cast<System::Int32>(static_cast<System::Byte>(130)));
+			this->item16->Controls->Add(this->checkBoxLv44);
+			this->item16->Controls->Add(this->label34);
+			this->item16->Controls->Add(this->pictureBox24);
+			resources->ApplyResources(this->item16, L"item16");
+			this->item16->Name = L"item16";
+			// 
+			// label34
+			// 
+			resources->ApplyResources(this->label34, L"label34");
+			this->label34->Name = L"label34";
+			// 
+			// pictureBox24
+			// 
+			resources->ApplyResources(this->pictureBox24, L"pictureBox24");
+			this->pictureBox24->Name = L"pictureBox24";
+			this->pictureBox24->TabStop = false;
+			// 
 			// MyForm
 			// 
 			resources->ApplyResources(this, L"$this");
@@ -2004,12 +2134,6 @@ private: System::ComponentModel::IContainer^ components;
 			this->panelDv32->ResumeLayout(false);
 			this->panelDv32->PerformLayout();
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureBox14))->EndInit();
-			this->item16->ResumeLayout(false);
-			this->item16->PerformLayout();
-			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureBox19))->EndInit();
-			this->item15->ResumeLayout(false);
-			this->item15->PerformLayout();
-			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureBox11))->EndInit();
 			this->item1->ResumeLayout(false);
 			this->item1->PerformLayout();
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureBox1))->EndInit();
@@ -2079,6 +2203,12 @@ private: System::ComponentModel::IContainer^ components;
 			this->panel19->ResumeLayout(false);
 			this->panel19->PerformLayout();
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureBox8))->EndInit();
+			this->item15->ResumeLayout(false);
+			this->item15->PerformLayout();
+			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureBox23))->EndInit();
+			this->item16->ResumeLayout(false);
+			this->item16->PerformLayout();
+			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureBox24))->EndInit();
 			this->ResumeLayout(false);
 			this->PerformLayout();
 
@@ -2327,7 +2457,7 @@ private: System::Void checkBoxMain_CheckedChanged(System::Object^ sender, System
 	colorpanel3->BackColor = Color::FromArgb(hScrollBar9->Value, hScrollBar7->Value, hScrollBar8->Value);
 	colorpanel4->BackColor = Color::FromArgb(hScrollBar3->Value, hScrollBar1->Value, hScrollBar2->Value);
 }
-
+			  
 private: System::Void checkBoxMain2_CheckedChanged(System::Object^ sender, System::EventArgs^ e)
 {
 	// Снятие со всех галочки кроме выбранного
@@ -2976,7 +3106,7 @@ private: System::Void checkBoxLv44_CheckedChanged(System::Object^ sender, System
 }
 private: System::Void checkBoxInfoMain_CheckedChanged(System::Object^ sender, System::EventArgs^ e)
 {
-	// Снятие со всех галочки кроме выбранного
+	// Снятие со всех галочки кроме выбранного  
 	checkBoxMain->Checked = false;
 	checkBoxMain2->Checked = false;
 	checkBoxMain3->Checked = false;
@@ -3000,19 +3130,19 @@ private: System::Void checkBoxInfoMain_CheckedChanged(System::Object^ sender, Sy
 	checkBoxInfoDv1->Checked = false;
 
 	// Hour R G B
-	hScrollBar4->Value = 90;
-	hScrollBar6->Value = 30;
-	hScrollBar5->Value = 80;
+	hScrollBar4->Value = 220;
+	hScrollBar6->Value = 0;
+	hScrollBar5->Value = 0;
 
 	// Minute 0,114,254
-	hScrollBar9->Value = 90;
-	hScrollBar7->Value = 30;
-	hScrollBar8->Value = 80;
+	hScrollBar9->Value = 0;
+	hScrollBar7->Value = 144;
+	hScrollBar8->Value = 254;
 
 	// Seconds
-	hScrollBar3->Value = 155;
-	hScrollBar1->Value = 155;
-	hScrollBar2->Value = 155;
+	hScrollBar3->Value = 255;
+	hScrollBar1->Value = 0;
+	hScrollBar2->Value = 0;
 
 	colorpanel2->BackColor = Color::FromArgb(hScrollBar4->Value, hScrollBar5->Value, hScrollBar6->Value);
 	colorpanel3->BackColor = Color::FromArgb(hScrollBar9->Value, hScrollBar7->Value, hScrollBar8->Value);
@@ -3044,19 +3174,19 @@ private: System::Void checkBoxInfoMain2_CheckedChanged(System::Object^ sender, S
 	checkBoxInfoDv1->Checked = false;
 
 	// Hour R G B
-	hScrollBar4->Value = 90;
-	hScrollBar6->Value = 30;
-	hScrollBar5->Value = 80;
+	hScrollBar4->Value = 220;
+	hScrollBar6->Value = 0;
+	hScrollBar5->Value = 0;
 
 	// Minute 0,114,254
-	hScrollBar9->Value = 90;
-	hScrollBar7->Value = 30;
-	hScrollBar8->Value = 80;
+	hScrollBar9->Value = 0;
+	hScrollBar7->Value = 144;
+	hScrollBar8->Value = 254;
 
 	// Seconds
-	hScrollBar3->Value = 155;
-	hScrollBar1->Value = 155;
-	hScrollBar2->Value = 155;
+	hScrollBar3->Value = 255;
+	hScrollBar1->Value = 0;
+	hScrollBar2->Value = 0;
 
 	colorpanel2->BackColor = Color::FromArgb(hScrollBar4->Value, hScrollBar5->Value, hScrollBar6->Value);
 	colorpanel3->BackColor = Color::FromArgb(hScrollBar9->Value, hScrollBar7->Value, hScrollBar8->Value);
@@ -3088,19 +3218,19 @@ private: System::Void checkBoxInfoMain3_CheckedChanged(System::Object^ sender, S
 	checkBoxInfoDv1->Checked = false;
 
 	// Hour R G B
-	hScrollBar4->Value = 90;
-	hScrollBar6->Value = 30;
-	hScrollBar5->Value = 80;
+	hScrollBar4->Value = 220;
+	hScrollBar6->Value = 0;
+	hScrollBar5->Value = 0;
 
 	// Minute 0,114,254
-	hScrollBar9->Value = 90;
-	hScrollBar7->Value = 30;
-	hScrollBar8->Value = 80;
+	hScrollBar9->Value = 0;
+	hScrollBar7->Value = 144;
+	hScrollBar8->Value = 254;
 
 	// Seconds
-	hScrollBar3->Value = 155;
-	hScrollBar1->Value = 155;
-	hScrollBar2->Value = 155;
+	hScrollBar3->Value = 0;
+	hScrollBar1->Value = 250;
+	hScrollBar2->Value = 0;
 
 	colorpanel2->BackColor = Color::FromArgb(hScrollBar4->Value, hScrollBar5->Value, hScrollBar6->Value);
 	colorpanel3->BackColor = Color::FromArgb(hScrollBar9->Value, hScrollBar7->Value, hScrollBar8->Value);
@@ -3132,19 +3262,19 @@ private: System::Void checkBoxInfoDv1_CheckedChanged(System::Object^ sender, Sys
 	//checkBoxInfoDv1->Checked = false;
 
 	// Hour R G B
-	hScrollBar4->Value = 90;
-	hScrollBar6->Value = 30;
-	hScrollBar5->Value = 80;
+	hScrollBar4->Value = 255;
+	hScrollBar6->Value = 50;
+	hScrollBar5->Value = 50;
 
 	// Minute 0,114,254
-	hScrollBar9->Value = 90;
-	hScrollBar7->Value = 30;
-	hScrollBar8->Value = 80;
+	hScrollBar9->Value = 222;
+	hScrollBar7->Value = 222;
+	hScrollBar8->Value = 222;
 
 	// Seconds
-	hScrollBar3->Value = 155;
-	hScrollBar1->Value = 155;
-	hScrollBar2->Value = 155;
+	hScrollBar3->Value = 255;
+	hScrollBar1->Value = 50;
+	hScrollBar2->Value = 50;
 
 	colorpanel2->BackColor = Color::FromArgb(hScrollBar4->Value, hScrollBar5->Value, hScrollBar6->Value);
 	colorpanel3->BackColor = Color::FromArgb(hScrollBar9->Value, hScrollBar7->Value, hScrollBar8->Value);
@@ -3169,7 +3299,7 @@ private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e
 
 
 	// File
-	String^ path = "../../SkinC.ini";
+	String^ path = "SkinC.ini";
 
 	bool IsItPro = 0;
 
@@ -3305,6 +3435,23 @@ private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e
 	else if (checkBoxLv44->Checked == true)
 	{
 		fout << "ImageName = Photoes/Theme/v-w5.png\n";
+	}
+
+	else if (checkBoxInfoMain->Checked == true)
+	{
+		fout << "ImageName = Photoes/ThemePro/ProMain1.png\n";
+	}
+	else if (checkBoxInfoMain2->Checked == true)
+	{
+		fout << "ImageName = Photoes/ThemePro/ProMain2.png\n";
+	}
+	else if (checkBoxInfoMain3->Checked == true)
+	{
+		fout << "ImageName = Photoes/ThemePro/ProMain3.png\n";
+	}
+	else if (checkBoxInfoDv1->Checked == true)
+	{
+		fout << "ImageName = Photoes/ThemePro/Prov-b1.png\n";
 	}
 
 		
