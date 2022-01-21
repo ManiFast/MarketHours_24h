@@ -1,24 +1,29 @@
-# MarketHours_24h 
-### Clock for those who trade on the stock exchange. Clock has 24 hour format
+# MarketHours_24h / Биржевые часы с 24 форматом
+### Clock for those who trade on the stock exchange. Clock has 24 hour format / Часы для тех, кто торгует на бирже. Часы имеют 24-часовой формат
 
 ![](https://github.com/Stas-inside/MarketHours_24h/blob/main/Photoes/Screenshots/MainPh.jpg)
 
-### Brief overview of the program
+### Brief overview of the program / Краткий обзор программы
 ![](https://github.com/Stas-inside/MarketHours_24h/blob/main/Photoes/Screenshots/Sequence%2001%20(1).gif)
 
 *Soon the channel will have a detailed review of the program itself, and as soon as the video gets 10 likes, I will post the VIP activation key to open all skins*
 
 >Download program [**HERE**](https://downgit.github.io/#/home?url=https://github.com/Stas-inside/MarketHours_24h/tree/main/Program_to_download)
 
-▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
-                            
-### Photos of several hours
+▂
+
+*Скоро на канале будет подробный обзор самой программы, а как только видео наберёт 10 лайков, я выложу ключ активации VIP для открытия всех скинов*
+
+>Скачать программу [**ЗДЕСЬ**](https://downgit.github.io/#/home?url=https://github.com/Stas-inside/MarketHours_24h/tree/main/Program_to_download)
+
+
+### Photos of several hours / Фотографии нескольких часов
 
 ![](https://github.com/Stas-inside/MarketHours_24h/blob/main/Photoes/Screenshots/Capture1.PNG)
 ![](https://github.com/Stas-inside/MarketHours_24h/blob/main/Photoes/Screenshots/Capture2.PNG)
 <!--![](https://github.com/Stas-inside/MarketHours_24h/blob/main/Photoes/Screenshots/tempsnip1.png)-->
 
-### Screenshots
+### Screenshots / Скриншоты
 
 ![](https://github.com/Stas-inside/MarketHours_24h/blob/main/Photoes/Screenshots/Screenshot%20(409).png)
 ![](https://github.com/Stas-inside/MarketHours_24h/blob/main/Photoes/Screenshots/Screenshot%20(410).png)
