@@ -7,14 +7,14 @@
 ![](https://github.com/Stas-inside/MarketHours_24h/blob/main/Photoes/Screenshots/Sequence%2001%20(1).gif)
 
 *Soon the channel will have a detailed review of the program itself, and as soon as the video gets 10 likes, I will post the VIP activation key to open all skins*
-*and also these skins are on the deviantart website where you can download selected themes you like.*
+*and also these skins are on the [deviantart](https://www.deviantart.com/manifaststas) website where you can download selected themes you like.*
 
 >Download program [**HERE**](https://downgit.github.io/#/home?url=https://github.com/Stas-inside/MarketHours_24h/tree/main/Program_to_download)
 
 ▂
 
 *Скоро на канале будет подробный обзор самой программы, а как только видео наберёт 10 лайков, я выложу ключ активации VIP для открытия всех скинов*
-*а также эти скины есть на сайте deviantart где вы можете скачать выбранные понравившиеся темы*
+*а также эти скины есть на сайте [deviantart](https://www.deviantart.com/manifaststas) где вы можете скачать выбранные понравившиеся темы*
 
 >Скачать программу [**ЗДЕСЬ**](https://downgit.github.io/#/home?url=https://github.com/Stas-inside/MarketHours_24h/tree/main/Program_to_download)
 
