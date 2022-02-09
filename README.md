@@ -1,4 +1,4 @@
-# MarketHours_24h / Биржевые часы с 24 формаом       
+# MarketHours_24h / Биржевые часы с 24 формаом        
 ### Clock for those who trade on the stock exchange. Clock has 24 hour format / Часы для тех, кто торгует на бирже. Часы имеют 24-часовой формат
 
 ![](https://github.com/Stas-inside/MarketHours_24h/blob/main/Photoes/Screenshots/MainPh.jpg)
