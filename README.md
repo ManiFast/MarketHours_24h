@@ -27,4 +27,4 @@
 ![](https://github.com/Stas-inside/MarketHours_24h/blob/main/Photoes/Screenshots/Screenshot%20(410).png)
 ![](https://github.com/Stas-inside/MarketHours_24h/blob/main/Photoes/Screenshots/Screenshot%20(411).png)
 
-[на русском](https://github.com/ManiFast/MarketHours_24h/blob/main/README-RU.md)
+[На русском](https://github.com/ManiFast/MarketHours_24h/blob/main/README-RU.md)
